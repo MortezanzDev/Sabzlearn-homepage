@@ -238,6 +238,7 @@ ul {
     display: flex;
     height: 100px;
     justify-content: space-between;
+    font-family: Dana Regular;
 }
 
 .nav__menu-right {
@@ -428,6 +429,7 @@ ul {
     right: -16rem;
     transition: right 0.15s ease;
     background-color: #242a38;
+    font-family: Dana Reular;
 }
 
 .nav-mobile-content.active {
@@ -445,6 +447,7 @@ ul {
 
 .nav-monile__top-text {
     text-align: center;
+    font-family: Dana DemiBold;
     color: #0a97d4;
 }
 
@@ -457,7 +460,7 @@ ul {
     color: var(--secondary-color);
     font-size: .875rem;
     margin-bottom: .625rem;
-    font-family: Dana SemiBold;
+    font-family: Dana DemiBold;
 }
 
 .nav-mobile__items {
@@ -513,7 +516,7 @@ ul {
     line-height: 1.875rem;
     color: #fff;
     margin-top: 2rem;
-    font-weight: 700;
+    font-family: Dana Bold;
     text-align: center;
 }
 
@@ -1017,6 +1020,7 @@ ul {
 .withyou__box-paragraph {
     color: #9ca3af;
     font-size: 1rem;
+    font-family: Dana Regular;
 }
 
 /*Articles*/
@@ -1087,6 +1091,7 @@ ul {
 
 #last-content p {
     color: #a2acb9;
+    font-family: Dana Regular;
 }
 
 #last-content h2 {
